@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/zinnn/Project/HelloWorld/CSharp/HelloWorld/HelloWorld.csproj": {}
+    "/home/zinnn/Project/HelloWorld/CSharp/HelloWorld.csproj": {}
   },
   "projects": {
-    "/home/zinnn/Project/HelloWorld/CSharp/HelloWorld/HelloWorld.csproj": {
+    "/home/zinnn/Project/HelloWorld/CSharp/HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/zinnn/Project/HelloWorld/CSharp/HelloWorld/HelloWorld.csproj",
+        "projectUniqueName": "/home/zinnn/Project/HelloWorld/CSharp/HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "/home/zinnn/Project/HelloWorld/CSharp/HelloWorld/HelloWorld.csproj",
+        "projectPath": "/home/zinnn/Project/HelloWorld/CSharp/HelloWorld.csproj",
         "packagesPath": "/home/zinnn/.nuget/packages/",
-        "outputPath": "/home/zinnn/Project/HelloWorld/CSharp/HelloWorld/obj/",
+        "outputPath": "/home/zinnn/Project/HelloWorld/CSharp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/zinnn/.nuget/NuGet/NuGet.Config"

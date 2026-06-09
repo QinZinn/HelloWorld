@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jFJvK9EKQu4=",
+  "dgSpecHash": "Myz+m8bvQHA=",
   "success": true,
-  "projectFilePath": "/home/zinnn/Project/HelloWorld/CSharp/HelloWorld/HelloWorld.csproj",
+  "projectFilePath": "/home/zinnn/Project/HelloWorld/CSharp/HelloWorld.csproj",
   "expectedPackageFiles": [
     "/home/zinnn/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.8/microsoft.aspnetcore.app.ref.10.0.8.nupkg.sha512"
   ],
