@@ -1,0 +1,56 @@
+# ==========================================================
+# .gitignore chuẩn cho Repo Sưu Tầm Ngôn Ngữ (HelloWorld)
+# ==========================================================
+
+# --- File Hệ điều hành & IDE Rác ---
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+
+# --- C / C++ ---
+C/HelloWorld
+C++/HelloWorld
+*.o
+*.obj
+*.out
+*.exe
+
+# --- C# (.NET) ---
+CSharp/bin/
+CSharp/obj/
+
+# --- Java ---
+Java/*.class
+Java/*.jar
+
+# --- Python ---
+Python/__pycache__/
+Python/*.pyc
+
+# --- Golang ---
+# Chặn file binary sau khi chạy go build
+Golang/HelloWorld
+Golang/HelloWorld.exe
+
+# --- Rust ---
+Rust/target/ 
+Rust/**/target/
+
+# --- JavaScript / TypeScript ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+.pnpm-debug.log*
+TypeScript/dist/
+TypeScript/out/
+*.js.map
+
+# --- PHP ---
+PHP/.phpunit.result.cache
+
+# --- Ruby ---
+.bundle/
+vendor/bundle/
+.byebug_history
