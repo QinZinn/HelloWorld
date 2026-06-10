@@ -51,4 +51,6 @@ PHP/.phpunit.result.cache
 vendor/bundle/
 .byebug_history
 /CSharp/obj
-/CSharp/obj
+/CSharp/obj/*
+CSharp/obj/Debug/net10.0/HelloWorld.AssemblyInfo.cs
+CSharp/obj/Debug/net10.0/HelloWorld.AssemblyInfoInputs.cache
