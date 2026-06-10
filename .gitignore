@@ -1,8 +1,4 @@
-# ==========================================================
-# .gitignore chuẩn cho Repo Sưu Tầm Ngôn Ngữ (HelloWorld)
-# ==========================================================
-
-# --- File Hệ điều hành & IDE Rác ---
+# --- IDE ---
 .DS_Store
 Thumbs.db
 *.log
@@ -54,3 +50,5 @@ PHP/.phpunit.result.cache
 .bundle/
 vendor/bundle/
 .byebug_history
+/CSharp/obj
+/CSharp/obj
